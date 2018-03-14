@@ -46,6 +46,6 @@ $("#btn5").click(function(){
 });
 
 $("#mountains").click(function(){
-   $("body").css("background", "url(https://image.freepik.com/free-vector/snow-winter-background_1048-3831.jpg)");
-   console.log("it works");
+   $("body").css("background", "url(https://i.ytimg.com/vi/iEec7OygBe8/maxresdefault.jpg)");
+   
 });
